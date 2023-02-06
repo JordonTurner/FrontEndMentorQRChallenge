@@ -30,7 +30,7 @@ This is my first project that I've done with FrontEnd Mentor and I'm really happ
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/JordonTurner/FrontEndMentorQRChallenge)
-- Live Site URL: [QR Code Component](https://your-live-site-url.com)
+- Live Site URL: [QR Code Component](https://jordonturner.github.io/FrontEndMentorQRChallenge/)
 
 ## My process
 
