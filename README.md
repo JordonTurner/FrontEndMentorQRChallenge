@@ -21,7 +21,7 @@ This is my first project that I've done with FrontEnd Mentor and I'm really happ
 
 ### Screenshot
 
-![Screenshot](images/screenshot.png)
+![Screenshot](screenshot.png)
 
 
 ### Links
