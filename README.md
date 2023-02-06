@@ -26,7 +26,7 @@ This is my first project that I've done with FrontEnd Mentor and I'm really happ
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/JordonTurner/FrontEndMentorQRChallenge)
+- Solution URL: [Github Repository](https://github.com/JordonTurner/FrontEndMentorQRChallenge)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
