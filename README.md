@@ -9,13 +9,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -43,8 +39,6 @@ I started with doing what I felt was the easier things first and then went on to
 - CSS custom properties
 - Flexbox
 
-
-
 ### Useful resources
 
 - [Coder Coder](https://www.youtube.com/@TheCoderCoder) - I want to thank Coder Coder and their Youtube channel for introducing me to FrontEnd Mentor. 
@@ -54,7 +48,6 @@ I started with doing what I felt was the easier things first and then went on to
 
 - Website - [Jordon Turner] (Personal Site Under Construction)
 - Frontend Mentor - [@Dasnof](https://www.frontendmentor.io/profile/JordonTurner)
-
 
 
 ## Acknowledgments
